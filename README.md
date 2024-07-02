@@ -24,19 +24,11 @@ Aspiring Full Stack Developer with a passion for learning and a drive to create 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rhan01&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rhan01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-<h2 align="center">📊 My Github Stats</h2>
+
 <div>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhan01&theme=tokyonight&hide_border=false" alt="Rhan01" height="250px" width="47%" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rhan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
-</div>
-  </br>
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Rhan01" height="260px" width="25%" />
   <img align="right" src="https://media4.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47k6g85mqre2d35si6nw2gr40isks4cqliusrtbka9&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="255px" width="70%"/>
 </div>
 
@@ -45,7 +37,6 @@ Aspiring Full Stack Developer with a passion for learning and a drive to create 
 <br/>
 <br/>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
